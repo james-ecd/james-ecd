@@ -3,8 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 <p>A backend engineer from <img src="https://cdn-icons-png.flaticon.com/512/555/555417.png" width="20"/> <b>London, UK</b></p>
-<p>Currently backpacking around the world whilst on a career break <img src="https://cdn-icons-png.flaticon.com/512/2072/2072299.png" width="20"/> </p>
-<p>Spending my free time to learn new technologies and develop some private and open source projects</p>
+<p>Spending my free time developing some private and open source projects and learning new technologies</p>
 <h3>Tools I use</h3>
 <p>
   <!-- img.shields.io for the badge generation. simpleicons.org for icon name and hex colour value -->
