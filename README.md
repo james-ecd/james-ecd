@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/james-davis-601406b5/" target="_blank">James Davis</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/james-davis-601406b5/" target="_blank">James Davis</a></h1>
 
 
 <p>A backend engineer from <img src="https://cdn-icons-png.flaticon.com/512/555/555417.png" width="20"/> <b>Bristol, UK</b></p>
