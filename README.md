@@ -2,6 +2,7 @@
 
 
 <p>A backend engineer from <img src="https://cdn-icons-png.flaticon.com/512/555/555417.png" width="20"/> <b>Bristol, UK</b></p>
+<p>Currently making markets more efficient at B2C2</p>
 <p>Spending my free time developing some private and open source projects and learning new technologies</p>
 <h3>Tools I use</h3>
 <p>
