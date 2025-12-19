@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/james-davis-601406b5/" target="_blank">James Davis</a></h1>
-
-
-<p>A backend engineer from <img src="https://cdn-icons-png.flaticon.com/512/555/555417.png" width="20"/> <b>Bristol, UK</b></p>
-<p>Currently making markets more efficient at B2C2</p>
-<p>Spending my free time developing some private and open source projects and learning new technologies</p>
 <h3>Tools I use</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
